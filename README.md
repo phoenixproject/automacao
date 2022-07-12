@@ -10,4 +10,11 @@
 
 #### C
 
+#### Sistemas Microprocessados e Sistemas Microcontrolados 
 
+- Microprocessadores e Microcontroladores são dispositivos muito utilizados em sistemas embarcados;
+- Sistemas Embarcados são sistemas que estão embutidos em dispositivos e controlados por microprocessadores e microcontroladores;
+- Microncontrolador é um dispositivo que tem um microprocessador com os periféricos embutidos nele (memórias, EPROM Flash, SRAM, temporizadores, comparadores, conversores, etc) e por conta disso ele tem uma limitação de processamento e é utilizado para pequenos projetos de automação, robôs e internet das coisas. Ele também possui uma arquitetura mais simples e por conta disso são usados em impressoras 3D ou leitores de temperatura (por exemplo);
+- Microprocessadores tem maior poder de processamento que um microcontroladores, tem uma arquitetura mais robusta internamente porque internamente possuem unidades de controle, registradores e unidade aritimética e lógica e são usados. Por conta desses detalhes são utilizados em projetos mais complexos que requerem mais processamento como jogos de computadores, brinquedos com IA, etc;
+
+##### Microprocessados e Sistemas Microcontrolados 

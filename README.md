@@ -8,7 +8,9 @@
 ##### [Cygwin](https://www.cygwin.com/)<br/>
 ##### [Configurando Netbeans com Cygwin](https://www.wikihow.com/Run-C/C%2B%2B-Program-in-Netbeans-on-Windows)<br/>
 
-#### C
+**C**
+##### [01 – Aprendendo C no Linux : )](https://mastigado.wordpress.com/2014/10/29/01-aprendendo-c-no-linux/)<br/>
+##### [02 – Compilando o seu programa em C no Linux](https://mastigado.wordpress.com/2014/11/07/02-compilando-o-seu-programa-em-c-no-linux/)<br/>
 
 #### Sistemas Microprocessados e Sistemas Microcontrolados 
 
